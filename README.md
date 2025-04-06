@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm ayesha shaw</h1>
 <p>Motivated and detail-oriented Full Stack Developer with a strong foundation in front-end and back-end technologies. Proficient in JavaScript, React, Node.js, Express, and MongoDB, with hands-on experience in building dynamic and responsive web applications. Passionate about writing clean, efficient, and scalable code while continuously learning new technologies. Adept at problem-solving, debugging, and collaborating in team environments. Seeking an opportunity to apply my skills in a real-world setting and contribute to impactful projects.
-
 </p>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshashaw&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshashaw" /> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **typescript**
 
 - 👯 I’m looking to collaborate on **Mern projects**
+
+- 👨‍💻 All of my projects are available at [https://ayeshashaw.netlify.app](https://ayeshashaw.netlify.app)
 
 - 💬 Ask me about **react,express,html,css, javaSript,**
 
