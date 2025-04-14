@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshashaw&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshashaw" /> </p>
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **Nodejs and express.js**
 
 - 👯 I’m looking to collaborate on **Mern projects**
 
 - 👨‍💻 All of my projects are available at [https://ayeshashaw.netlify.app](https://ayeshashaw.netlify.app)
 
-- 💬 Ask me about **react,express,html,css, javaSript,**
+- 💬 Ask me about **react, express,html,css, javaSript,MongoDB,MYSQL**
 
 - 📫 How to reach me **ayeshashaw520@gmail.com**
 
