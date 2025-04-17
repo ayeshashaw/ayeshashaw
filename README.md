@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ayesha shaw</h1>
+<h1 align="center">Hi 👋, I'm Ayesha Shaw</h1>
 <p>Motivated and detail-oriented Full Stack Developer with a strong foundation in front-end and back-end technologies. Proficient in JavaScript, React, Node.js, Express, and MongoDB, with hands-on experience in building dynamic and responsive web applications. Passionate about writing clean, efficient, and scalable code while continuously learning new technologies. Adept at problem-solving, debugging, and collaborating in team environments. Seeking an opportunity to apply my skills in a real-world setting and contribute to impactful projects.
 </p>
 <h3 align="center">A passionate Full stack developer from India</h3>
