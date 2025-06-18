@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshashaw&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshashaw" /> </p>
 
-- 🌱 I’m currently learning **Node.js and Express.js**
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
